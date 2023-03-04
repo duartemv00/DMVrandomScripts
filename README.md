@@ -1,4 +1,4 @@
-# Small python projects created by Duarte Martínez Vizoso
+# Small projects created by Duarte Martínez Vizoso
 
 PYTHON:
     - Random pass generator
